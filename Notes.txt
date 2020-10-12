@@ -1,0 +1,57 @@
+Profit KPI
+Profit by category
+Profit by subcategory
+profit by time
+Profit by Segment
+Profit by discount
+Profit by Region
+
+
+Sales KPI
+Sales by time
+Sales by sales Person
+sales by segment : piecharts
+Maps by region:
+over all
+top 15 well performing states
+top 15 low performing states
+sales by category
+Sales by Subcategory
+Sales by product id / name - top 10 performing
+Sales by product id / name - bottom 10 performing
+
+Overall:
+profit and sale by segment with subcategory and category can be slicer
+Pivot table for It : Rows : Segment , Sub category Values: Sum of sales , Profit per Item .
+Top 10 best performing product with sales and profit 
+Bottom 10 best performing product with sales and profit 
+Sales and profit by product id / name - top 5 performing
+Sales and profit by product id / name - bottom 5 performing
+
+ask vishranti:
+how to make KPI like 377K instead of 377000
+In Profit by discount sheet how to convert row discount to 20 % instead of 0.2
+For maps how to add region wise map
+How shantanail added margin ?? profit by sales = margin.
+do we need to clean data ??
+
+
+
+Hello Everyone
+Being part of Alphaa AI fellowship I tried to learn and analyze small stories behind the dataset. 
+I have prepared a dashboard for the superstore owner and manager.
+I tried analyzing the story behind data and even tried to bring out stories from data.
+
+This task was very insightful and interesting and i wouldn't have been able to do this without @saurabh sir and @preksha ma'am. If you want to do something like this as well, join the largest Citizen Data Scientist community 👉 http://bit.ly/fellow-9.
+
+I was able to come to certain conclusions such as :
+1. Even few product lies in Top 5 product by sales still its creating loss .
+2. Profit is always low in Nov in all 4 years .
+3. If we offer discount more than 30% it incours loss .
+4. In shipping days schedule to ship product is 4 and 5 but in actual its taking 6 days for majority of product.
+
+And by the way would you believe that all this is built using EXCEL !!
+
+#AlphaaAI Fellows are on a mission to tell #1billion #datastories with their unique perspective. I am a part of a community that is creating Citizen Data Scientists, who bring in data first approach to their work, core specialisation, and the organisation.
+ 
+#datascience #visualisation #business #nontech #excel 
